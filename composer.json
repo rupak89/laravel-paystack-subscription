@@ -25,7 +25,7 @@
         "digikraaft/laravel-paystack-webhooks": "^1.0",
         "digikraaft/paystack-php": "^1.0",
         "dompdf/dompdf": "^0.8.5",
-        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/guzzle": "^7.0.1",
         "illuminate/contracts": "^7.15|^8.0",
         "illuminate/database": "^7.15|^8.0",
         "illuminate/http": "^7.15|^8.0",
